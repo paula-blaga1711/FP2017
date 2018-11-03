@@ -2,3 +2,5 @@ testing git functionalities
 
 
 adding a new line, and deleting a previous one
+
+adding another new line, after associating the new branch from the local repo with the original on the server
